@@ -231,7 +231,7 @@ alloc_yrs<-function(A,cohort,scenario1,scenario2,scenario3,scenario4,scenario5,s
 	write.table(unalloccap, "unallocatedcapacity.csv", row.names=FALSE, sep=",")
 	write.table(averagett, "averagetraveltime.csv", col.names=TRUE, sep=",")
 	write.table(averageseifa, "averageseifa.csv", col.names=TRUE, sep=",")
-	print('you are very loved')
+	print('process complete')
 }
 
 
