@@ -49,10 +49,10 @@ alloc_yrs(A, cohort, scenario1, scenario2, scenario3, scenario4, scenario5, scen
 %%     ~~Describe \code{scenario10} here~~
 }
 }
-\details{
+\details{ details
 %%  ~~ If necessary, more details than the description above ~~
 }
-\value{
+\value{ return csvs
 %%  ~Describe the value returned
 %%  If it is a LIST, use
 %%  \item{comp1 }{Description of 'comp1'}
@@ -62,7 +62,7 @@ alloc_yrs(A, cohort, scenario1, scenario2, scenario3, scenario4, scenario5, scen
 \references{
 %% ~put references to the literature/web site here ~
 }
-\author{
+\author{ ayam
 %%  ~~who you are~~
 }
 \note{

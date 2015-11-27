@@ -13,7 +13,7 @@
 The DESCRIPTION file:
 \packageDESCRIPTION{clstrplnr}
 \packageIndices{clstrplnr}
-~~ An overview of how to use the package, including the most important functions ~~
+~~ indices - update ~~
 }
 \author{
 \packageAuthor{clstrplnr}
