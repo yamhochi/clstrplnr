@@ -4,7 +4,7 @@
 \title{optimised demand alloction model
 %%  ~~function to do ... ~~
 }
-\description{
+\description{ optimised demand allocation procedure. looks for shortest travel time and available capacity
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
 }
 \usage{
