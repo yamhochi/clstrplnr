@@ -1,7 +1,7 @@
 \name{alloc_yrs}
 \alias{alloc_yrs}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{
+\title{optimised demand alloction model
 %%  ~~function to do ... ~~
 }
 \description{
@@ -12,40 +12,40 @@ alloc_yrs(A, cohort, scenario1, scenario2, scenario3, scenario4, scenario5, scen
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
-  \item{A}{
+  \item{A}{ name of cluster
 %%     ~~Describe \code{A} here~~
 }
-  \item{cohort}{
+  \item{cohort}{ cohort 'p' for primary or 's' for secondary
 %%     ~~Describe \code{cohort} here~~
 }
-  \item{scenario1}{
+  \item{scenario1}{ filename of scenario (up to 10 scenarios) - exlclude .csv extension
 %%     ~~Describe \code{scenario1} here~~
 }
-  \item{scenario2}{
+  \item{scenario2}{ filename of scenario (up to 10 scenarios) - exlclude .csv extension
 %%     ~~Describe \code{scenario2} here~~
 }
-  \item{scenario3}{
+  \item{scenario3}{ filename of scenario (up to 10 scenarios) - exlclude .csv extension
 %%     ~~Describe \code{scenario3} here~~
 }
-  \item{scenario4}{
+  \item{scenario4}{ filename of scenario (up to 10 scenarios) - exlclude .csv extension
 %%     ~~Describe \code{scenario4} here~~
 }
-  \item{scenario5}{
+  \item{scenario5}{ filename of scenario (up to 10 scenarios) - exlclude .csv extension
 %%     ~~Describe \code{scenario5} here~~
 }
-  \item{scenario6}{
+  \item{scenario6}{ filename of scenario (up to 10 scenarios) - exlclude .csv extension
 %%     ~~Describe \code{scenario6} here~~
 }
-  \item{scenario7}{
+  \item{scenario7}{ filename of scenario (up to 10 scenarios) - exlclude .csv extension
 %%     ~~Describe \code{scenario7} here~~
 }
-  \item{scenario8}{
+  \item{scenario8}{ filename of scenario (up to 10 scenarios) - exlclude .csv extension
 %%     ~~Describe \code{scenario8} here~~
 }
-  \item{scenario9}{
+  \item{scenario9}{ filename of scenario (up to 10 scenarios) - exlclude .csv extension
 %%     ~~Describe \code{scenario9} here~~
 }
-  \item{scenario10}{
+  \item{scenario10}{ filename of scenario (up to 10 scenarios) - exlclude .csv extension
 %%     ~~Describe \code{scenario10} here~~
 }
 }
